@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DaydreamElements/Elements/Teleport/Demo/Teleport.unity
+  isLoaded: 1
+  isActive: 1

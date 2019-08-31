@@ -1,0 +1,2 @@
+/Users/vishvam/TeleportDayDream/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/vishvam/TeleportDayDream/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
